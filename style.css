@@ -1,0 +1,361 @@
+.logo img{
+	width:80px;
+}
+.nav img{
+	width:100px;
+	
+}
+img.nav{
+	width:150px;
+	
+	
+}
+.we{
+	margin-left:20px;
+	width:200px;
+	height:40px;
+	font-size:20px;
+	border:2px solid black;
+	border-radius:5px;
+}
+.you{
+	margin-left:20px;
+	width:200px;
+	height:40px;
+	font-size:20px;
+	border:2px solid black;
+	border-radius:5px;
+}
+	
+.you{
+	margin-left:40px;
+	width:300px;
+	height:30px;
+	color:black;
+}
+button.classic{
+	width:60px;
+	height:40px;
+	background-color:brown;
+	color:white;
+	border:3px solid yellow;
+	border-radius:10px;
+	
+}
+a{
+	color:black;
+	font-size:20px;
+	font-family:cursive;
+	padding:10px;
+}
+button.yo{
+	padding:15px;
+	border-radius:20px;
+	background-color:white;
+	border-bottom:3px silid blue;
+	border-left:3px solid blue;
+	border-right:3px solid yellow;
+	border-top:3px solid green;
+	
+}
+.main img {
+	width:10px;
+	margin:left;
+}
+.main p{
+	word-spacing:20px;
+	font-size:20px;
+}
+.him img{
+	width:1000px;
+}
+.red{
+	max-width:200px;
+	display:inline-block;
+	font-weight:bold;
+	text-align:center;
+	margin:20px 20px;
+	padding-left:0px;
+	cursor:pointer;
+}
+.red img{
+	width:100px;
+}
+.blue{
+	margin: 10px 10px;
+	display:inline-block;
+	text-align:center;
+	font-weight:bold;
+	padding-left:10px;
+}
+.blue img{
+	width:100px;
+}
+.black{
+	margin:10px 10px;
+	display:inline-block;
+	text-align:center;
+	font-weight:bold;
+	padding-left:10px;
+}
+.black img{
+	width:100px;
+}
+.pink{
+	margin:10px 10px;
+	display:inline-block;
+	text-align:center;
+	font-weight:bold;
+	padding-left:10px;
+}
+.pink img{
+	width:100px;
+}
+.yellow{
+
+	margin:10px 10px;
+	display:inline-block;
+	text-align:center;
+	font-weight:bold;
+	padding-left:10px;
+}
+.yellow img{
+	width:100px;
+}
+
+.green{
+	margin:10px 10px;
+	display:inline-block;
+	text-align:center;
+	font-weight:bold;
+	padding-left:10px;
+}
+.green img{
+	width:100px;
+}
+.purple{
+	
+	margin:10px 10px;
+	display:inline-block;
+	text-align:center;
+	font-weight:bold;
+	padding-left:10px;
+
+
+}
+.purple img{
+	width:100px;
+}
+.sky{
+		
+
+	margin:10px 10px;
+	display:inline-block;
+	text-align:center;
+	font-weight:bold;
+	padding-left:10px;
+}
+.sky img{
+	width:100px;
+}
+.grey{
+	
+
+	margin:10px 10px;
+	display:inline-block;
+	text-align:center;
+	font-weight:bold;
+	padding-left:10px;
+}
+.grey img{
+	width:100px;
+}
+.voilet{
+		
+
+	margin:10px 10px;
+	display:inline-block;
+	text-align:center;
+	font-weight:bold;
+	padding-left:10px;
+}
+.voilet img{
+	width:100px;
+}
+.orange{
+		
+
+	margin:10px 10px;
+	display:inline-block;
+	text-align:center;
+	font-weight:bold;
+	padding-left:10px;
+}
+.orange img{
+	width:100px;
+}
+.cat{
+		
+
+	margin:10px 10px;
+	display:inline-block;
+	text-align:center;
+	font-weight:bold;
+	padding-left:10px;
+
+}
+.cat img{
+	width:100px;
+}
+.eat{
+	margin:10px 10px;
+	display:inline-block;
+	text-align:center;
+	font-weight:bold;
+	padding-left:10px;
+}
+.eat img{
+	width:100px;
+}
+i{
+	width:30px;
+	color:blue;
+	display:inline;
+	font-family:sanss-serif;
+}
+.map{
+	
+	margin:10px 10px;
+	display:inline-block;
+	text-align:center;
+	font-weight:bold;
+	padding-left:10px;
+}
+.map img{
+	width:100px;
+}
+.hot{
+	display:inline;
+}
+.kite{
+	font-size:40px;
+	margin-left:30px;
+	font-weight:bold;
+}
+i{
+	margin-left:900px;
+	font-size:10px;
+	font-family:cursive;
+}
+	
+img.hf{
+	width:20px;
+	margin-top:30px;
+	
+	margin-bottom:1
+}
+.cone{
+	display:flex;
+	
+}
+.the{
+	border:1px solid grey;
+}
+h3{
+	margin-left:20px;
+}
+p{
+	margin-left:20px;
+}
+.he{
+	border:1px solid grey;
+	margin-left:10px;
+}
+.the img{
+	width:200px;
+	height:200px;
+	margin-left:30px;
+}
+img.sky {
+	width:20px;
+	height:20px;
+	margin-left:90px;
+}
+p{
+	margin-left:20px;
+}
+.h{
+	border:1px solid grey;
+	margin-left:10px;
+}
+
+.he img{
+	width:200px;
+	height:200px;
+	margin-left:30px;
+}
+img.come{
+	width:20px;
+	height:20px;
+	margin-left:90px;
+}
+.a{
+	border:1px solid grey;
+	margin-left:10px;
+}
+.h img{
+	width:200px;
+	height:200px;
+	margin-left:30px;
+}
+img.a{
+	width:20px;
+	height:20px;
+	margin-left:90px;
+}
+.n{
+	border:1px solid grey;
+	margin-left:10px;
+}
+.n img{
+	width:200px;
+	height:200px;
+	margin-left:20px;
+}
+img.i{
+	width:20px;
+	height:20px;
+	margin-left:90px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 	
